@@ -2,7 +2,7 @@
 
 <p align="">
   <a href="https://datahorse.ai/">
-    <img src="cover-image.png" height="">
+    <img src="image-cover.png" height="">
   </a>
   <h1 align="center">
     <a href="https://datahorse.ai/">DataHorse</a>
